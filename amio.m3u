@@ -38,7 +38,7 @@ http://selevision9888-i.akamaihd.net/hls/live/219306/98889/1.m3u8?v=
 #EXTINF:-1,aljazeera hd
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
 #EXTINF:-1,Al Jazeera
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index1296.m3u8
 #EXTINF:-1,Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
 #EXTINF:-1,Aljazeera Documentary
@@ -53,8 +53,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1,Bloomberg TV Asia
 http://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1,Bein sport
-http://185.231.160.49/607/1/index.m3u8
 #EXTINF:-1,beIN Sports Opción 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
 #EXTINF:-1,Bein Sports Opción 2
